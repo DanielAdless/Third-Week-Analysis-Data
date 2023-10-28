@@ -50,3 +50,6 @@ https://data.jakarta.go.id/visualisasi/detail/188
 
 • Packages Pandas, Numpy, Matplotlib, Seaborn
 
+
+•Data Cleansing
+
