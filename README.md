@@ -5,6 +5,7 @@
 This dataset is data on the COVID-19 Social Assistance program distributed by the DKI Jakarta Provincial Government (Pemprov) and the Ministry of Social Restrictions of the Republic of Indonesia (Kemensos RI) to vulnerable families affected by COVID-19 during the Large-Scale Social Restriction (PSBB) period in Jakarta.
 
 
+
 **Data Understanding**
 
 •	Social Aid Distribution Monitoring Data to vulnerable families affected by COVID-19 in Jakarta during the PSBB period
@@ -13,6 +14,7 @@ This dataset is data on the COVID-19 Social Assistance program distributed by th
 https://data.jakarta.go.id/visualisasi/detail/188
 
 •	The dataset has 9 columns and 2693 rows
+
 
 
 **Data Dictionary**
@@ -34,3 +36,14 @@ https://data.jakarta.go.id/visualisasi/detail/188
 •	Distribution Date: Distribution date refers to the specific date when social assistance is distributed
 
 •	Cost: This column may contain information about the types of basic materials distributed to recipients
+
+
+
+Data Preparation:
+
+• Code Used
+
+• Python Version 3.11.4
+
+• Packages Pandas, Numpy, Matplotlib, Seaborn
+
