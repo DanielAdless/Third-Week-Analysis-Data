@@ -76,3 +76,18 @@ https://data.jakarta.go.id/visualisasi/detail/188
 •	Visualization of the lowest percentage of five recipients (kk) by kecamatan
 
 •	Percentage visualization of the food type distribution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**💡📈 Three full weeks of challenges and knowledge on the way as an analyst data scientist. As we enter the third week, we deepen in data analysis, dig up valuable insights, and continue to pursue change📊**
