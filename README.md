@@ -13,7 +13,8 @@ This dataset is data on the COVID-19 Social Assistance program distributed by th
 
 •	The dataset has 9 columns and 2693 rows
 
-•	Data Dictionary
+
+**Data Dictionary**
 
 •	No: Sequence number or unique identifier for each entry in the dataset.
 
