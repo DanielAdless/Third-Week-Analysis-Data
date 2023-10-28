@@ -53,3 +53,6 @@ https://data.jakarta.go.id/visualisasi/detail/188
 
 •Data Cleansing
 
+• Purging Data because there are two columns that do not match the data type, namely the distribution schedule column and the distribution date
+
+•Replace missing values with mean values
