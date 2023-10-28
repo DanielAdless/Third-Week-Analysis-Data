@@ -6,6 +6,7 @@ This dataset is data on the COVID-19 Social Assistance program distributed by th
 
 
 
+
 **Data Understanding**
 
 •	Social Aid Distribution Monitoring Data to vulnerable families affected by COVID-19 in Jakarta during the PSBB period
@@ -14,6 +15,7 @@ This dataset is data on the COVID-19 Social Assistance program distributed by th
 https://data.jakarta.go.id/visualisasi/detail/188
 
 •	The dataset has 9 columns and 2693 rows
+
 
 
 
@@ -52,8 +54,25 @@ https://data.jakarta.go.id/visualisasi/detail/188
 
 
 
+
 **Data Cleansing**
 
 • Purging Data because there are two columns that do not match the data type, namely the distribution schedule column and the distribution date
 
 •Replace missing values with mean values
+
+
+
+
+
+**Exploration Data Analysis**
+
+•	Visualization of the number of Top 5 aid recipients (KK) based on District
+
+•	Visualization of the highest and lowest number of recipients (KK) based on City Region
+
+•	Visualization of the lowest number of aid recipients (KK) based on RW
+
+•	Visualization of the lowest percentage of five recipients (kk) by kecamatan
+
+•	Percentage visualization of the food type distribution
